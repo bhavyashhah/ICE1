@@ -49,7 +49,7 @@ import java.util.Scanner;
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Saad, but you can call me prof, Paul or sir");
+        System.out.println("My name is Bhavya, but you can call me prof, Bhavya or sir");
         System.out.println();
         
         System.out.println("My career ambitions:");
